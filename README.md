@@ -30,3 +30,7 @@ Once all tasks are entered, you can click the "Draw an Urgent & Important matrix
 Clicking the "Arrange them!" button will generate an output file named "To do list for next week.txt" containing the arranged daily to-do list.
 
 I hope that the Personal Secretary simplifies your task management process, allowing you to prioritize effectively and achieve your goals with less stress. Happy organizing!
+
+# Reviewer
+
+[Jiaxiang Cai](https://github.com/jiaxiang-cai)
